@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="irnova--nova-proxy-app"></div>
+
+### IRNova--Nova-Proxy-App
+
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
+
+---
+
 <div id="karingx--karing"></div>
 
 ### KaringX--karing
@@ -204,15 +216,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.9.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.9.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.9.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.9.apk) |
-| `mhrv-rs-android-universal-v1.9.9.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.9.apk) |
-| `mhrv-rs-android-x86-v1.9.9.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.9.apk) |
-| `mhrv-rs-android-x86_64-v1.9.9.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.9.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
+| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
+| `mhrv-rs-android-x86-v1.9.10.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.10.apk) |
+| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
