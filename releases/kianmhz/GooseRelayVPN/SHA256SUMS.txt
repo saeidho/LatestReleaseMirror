@@ -1,0 +1,15 @@
+8ce94eaff4bc733be8bdcf7cbb9bf63710d7be183c36c2951d478c3204c37eee  ./GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz
+b7fa1042b7c8b6651590c27f6b12c705454d2f1d6b302b59b11ff0e62eba34e7  ./GooseRelayVPN-client-v1.5.0-darwin-amd64.tar.gz
+487e5e3779fa96f93045a9539053a5f8a506d0942fbbea91dc534f8c447c3025  ./GooseRelayVPN-client-v1.5.0-darwin-arm64.tar.gz
+124a670a88e3adbecadf0cea351439e07ea236ba1ab4e18c2e77cb4c152e50db  ./GooseRelayVPN-client-v1.5.0-linux-amd64.tar.gz
+d4f41dda58ee3f464637b946e853d7bae72ad39a814424473d19d25ecfe79bde  ./GooseRelayVPN-client-v1.5.0-linux-arm64.tar.gz
+85b3b60bf91a4a5d234b14a1c55a0e8def029ad453b43f83753e3c88d10bad72  ./GooseRelayVPN-client-v1.5.0-linux-armv7.tar.gz
+b1fc7a851ca0a335c4c08b49a9f6ef761336c4374d27ab6b1c0c0540c0445dd0  ./GooseRelayVPN-client-v1.5.0-windows-amd64.zip
+82fb11a88e67810f251490a31cb0763a6a40931aa7ce2b538177374a073c31c4  ./GooseRelayVPN-client-v1.5.0-windows-arm64.zip
+89f99c872c58095078ea0c26b5302aaa12839f28540be542e5497a962cc5de9f  ./GooseRelayVPN-server-v1.5.0-darwin-amd64.tar.gz
+03fe0a6cdc887bf36a9080b32865499812c965fe904c1c40bf3d78e2112a3854  ./GooseRelayVPN-server-v1.5.0-darwin-arm64.tar.gz
+c557eb98e3bd09992639cf856ed1e51f81f5f8d4a609bc55c328c6ebd0b0a8f7  ./GooseRelayVPN-server-v1.5.0-linux-amd64.tar.gz
+a4bb06478349e060d0543785de315234d749eb883bf686dd3c3891527f2ff7b2  ./GooseRelayVPN-server-v1.5.0-linux-arm64.tar.gz
+4cced773d4a9ac28facdd0ee03a09cc4e20b0986fad92a397d340b5ad6b7f7a6  ./GooseRelayVPN-server-v1.5.0-linux-armv7.tar.gz
+00738cdf2fb88be113de4b9cb24a12a057a7e63ad39d3974202c6dd506bc399f  ./GooseRelayVPN-server-v1.5.0-windows-amd64.zip
+e303b2fa3c9f4d767ab3e0345b2894af19d13261e7862c432c1ad5e359199e26  ./GooseRelayVPN-server-v1.5.0-windows-arm64.zip
