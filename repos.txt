@@ -21,3 +21,8 @@ KaringX/karing|\.dmg|\.exe
 # 6. No filter – keep all assets from the release
 IRNova/Nova-Proxy-App
 
+# 7. No filter – keep all assets from the release
+2dust/v2rayN
+
+# 8. No filter – keep all assets from the release
+2dust/v2rayNG
