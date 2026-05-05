@@ -249,19 +249,46 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="kianmhz--gooserelayvpn"></div>
+
+### kianmhz--GooseRelayVPN
+
+🔗 [source](https://github.com/kianmhz/GooseRelayVPN) – [<code><small>v1.5.0</small></code>](https://github.com/kianmhz/GooseRelayVPN/releases/tag/v1.5.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-darwin-amd64.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-darwin-amd64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-darwin-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-darwin-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-linux-amd64.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-linux-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-linux-armv7.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-linux-armv7.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-windows-amd64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.5.0-windows-arm64.zip` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-arm64.zip) |
+| `GooseRelayVPN-server-v1.5.0-darwin-amd64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-darwin-amd64.tar.gz) |
+| `GooseRelayVPN-server-v1.5.0-darwin-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-darwin-arm64.tar.gz) |
+| `GooseRelayVPN-server-v1.5.0-linux-amd64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-server-v1.5.0-linux-arm64.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-linux-arm64.tar.gz) |
+| `GooseRelayVPN-server-v1.5.0-linux-armv7.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-linux-armv7.tar.gz) |
+| `GooseRelayVPN-server-v1.5.0-windows-amd64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.5.0-windows-arm64.zip` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-windows-arm64.zip) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/SHA256SUMS.txt) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
-| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
-| `mhrv-rs-android-x86-v1.9.10.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.10.apk) |
-| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.14.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.14.apk) |
+| `mhrv-rs-android-universal-v1.9.14.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.14.apk) |
+| `mhrv-rs-android-x86-v1.9.14.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.14.apk) |
+| `mhrv-rs-android-x86_64-v1.9.14.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.14.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/saeidho/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
