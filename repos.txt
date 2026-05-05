@@ -26,3 +26,6 @@ IRNova/Nova-Proxy-App
 
 # 8. No filter – keep all assets from the release
 2dust/v2rayNG
+
+# 9. No filter – keep all assets from the release
+kianmhz/GooseRelayVPN
