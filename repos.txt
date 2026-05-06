@@ -29,3 +29,6 @@ IRNova/Nova-Proxy-App
 
 # 9. No filter – keep all assets from the release
 kianmhz/GooseRelayVPN
+
+# 10. No filter – keep all assets from the release
+qr243vbi/nekobox
